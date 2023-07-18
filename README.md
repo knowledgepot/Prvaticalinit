@@ -7,3 +7,4 @@ Thi s l ine is added after c l oning t he repo f or Practical 5
 using Gi t in my own workstati on.
 This is from my local system.
 Hello from my local machine. This practical is done in UTAR lab.
+Hello from GitHub. This prcatical is done in UTAR lab.
